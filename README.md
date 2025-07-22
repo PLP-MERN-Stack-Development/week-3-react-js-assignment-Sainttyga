@@ -62,6 +62,10 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Integrate with at least one external API
 4. Style your application with Tailwind CSS
 5. Deploy your application and add the URL to your README.md
+<img width="1493" height="848" alt="task 2" src="https://github.com/user-attachments/assets/d02790f1-6060-4ece-bc3c-bf512ea3375e" />
+
+<img width="1492" height="845" alt="task" src="https://github.com/user-attachments/assets/dc1dbca7-07dc-4b24-8ee2-e1d4bc9989b0" />
+
 
 ## Resources
 
